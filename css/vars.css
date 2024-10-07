@@ -5,4 +5,8 @@
   height: 40px;
   cursor: pointer;
   padding: 0;
+}
+
+.btn-style:hover {
+  opacity: 0.5;
 }/*# sourceMappingURL=vars.css.map */
